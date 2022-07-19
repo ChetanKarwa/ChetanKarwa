@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Chetan's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=ChetanKarwa&show_icons=true&include_all_commits=true)](https://github.com/ChetanKarwa)
+[![Chetan's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=ChetanKarwa&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/ChetanKarwa)
 
