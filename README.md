@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ChetanKarwa&label=Profile%20views&color=0e75b6&style=flat-square" alt="ChetanKarwa" /></p>
+
 <!--
 **ChetanKarwa/ChetanKarwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
